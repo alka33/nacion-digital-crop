@@ -1,0 +1,3 @@
+nacion_digital_crop_homepage:
+    path:     /ndcrop
+    defaults: { _controller: NacionDigitalCropBundle:Default:index }
